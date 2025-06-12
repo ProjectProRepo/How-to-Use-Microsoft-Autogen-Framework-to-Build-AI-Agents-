@@ -47,6 +47,9 @@ To reproduce the setup:
 - Log into Hugging Face to access the Mistral model.
 - Follow the step-by-step instructions in the notebook to initialize your assistant agent.
 
+## Read the Full Blog
+If you are looking for a detailed explanation, please refer to this blog: [How to use the Microsoft Autogen Framework to Build AI Agents?](https://www.projectpro.io/article/autogen/1139).
+
 ## Contributions Welcome
 
 This repo is an evolving demo of how Autogen can interface with the wider AI ecosystem. If you'd like to:
